@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repositry.
 <br>
-Author - Nikhil Chauhan
+Author - Nikhil (ecb clg)
